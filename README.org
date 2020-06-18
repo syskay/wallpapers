@@ -1,0 +1,12 @@
+#+TITLE: Wallpapers
+#+AUTHOR: syskay
+#+EMAIL: syskay@gmail.com
+
+* Wallpapers lis
+
+  |------------------------------------------------------------------+--------------------+----------------------------------------------------------------------------------+------------------|
+  | iss063e025120.jpg                                                | NASA               | https://www.nasa.gov/sites/default/files/thumbnails/image/iss063e025120.jpg      | Aurora Australis |
+  | abstract_aurora-wallpaper-1680x1050.jpg                          | wallpaperswide.com | http://wallpaperswide.com/abstract_aurora-wallpapers.html                        | Abstract Aurora  |
+  | blue_kali_dragon-wallpaper-1680x1050.jpg                         | wallpaperswide.com | http://wallpaperswide.com/blue_kali_dragon-wallpapers.html                       | Blue Kali dragon |
+  | the_most_beautiful_road_in_the_world_2-wallpaper-1680x1050.jpg   | wallpaperswide.com | http://wallpaperswide.com/the_most_beautiful_road_in_the_world_2-wallpapers.html | The road 2       |
+  |------------------------------------------------------------------+--------------------+----------------------------------------------------------------------------------+------------------|
