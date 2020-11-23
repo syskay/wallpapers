@@ -14,4 +14,5 @@
   | modern_arhitecture-wallpaper-1680x1050.jpg                                         | wallpaperswide.com | http://wallpaperswide.com/modern_arhitecture-wallpapers.html                     | Modern Architecture |
   | the_old_man_of_storr_rocky_hill_in_scotland_panoramic_view-wallpaper-1680x1050.jpg | wallpaperswide.com |                                                                                  |                     |
   | W_2013_066.jpg                                                                     | facets.la          | http://www.facets.la/wallpaper/W_2013_066.jpg                                    |                     |
+  | wallhaven-nr8814_1680x1050.png                                                     | wallhaven          | [[https://whvn.cc/nr8814]]                                                           | village in snow     |
   |------------------------------------------------------------------------------------+--------------------+----------------------------------------------------------------------------------+---------------------|
